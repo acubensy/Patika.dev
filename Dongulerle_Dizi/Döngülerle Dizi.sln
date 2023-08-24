@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döngülerle Dizi", "Döngülerle Dizi\Döngülerle Dizi.csproj", "{DBEE9E50-1FB7-4CAC-8039-D02F44503624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEE9E50-1FB7-4CAC-8039-D02F44503624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEE9E50-1FB7-4CAC-8039-D02F44503624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEE9E50-1FB7-4CAC-8039-D02F44503624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEE9E50-1FB7-4CAC-8039-D02F44503624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F28B18-E0A3-443F-A87E-B04F6CC4AE9D}
+	EndGlobalSection
+EndGlobal
