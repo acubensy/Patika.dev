@@ -1,0 +1,16 @@
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\bin\Debug\net5.0\Recursive_Extentions_Methods.exe
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\bin\Debug\net5.0\Recursive_Extentions_Methods.deps.json
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\bin\Debug\net5.0\Recursive_Extentions_Methods.runtimeconfig.json
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\bin\Debug\net5.0\Recursive_Extentions_Methods.runtimeconfig.dev.json
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\bin\Debug\net5.0\Recursive_Extentions_Methods.dll
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\bin\Debug\net5.0\Recursive_Extentions_Methods.pdb
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.csproj.AssemblyReference.cache
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.AssemblyInfoInputs.cache
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.AssemblyInfo.cs
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.dll
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\refint\Recursive_Extentions_Methods.dll
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.pdb
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\Recursive_Extentions_Methods.genruntimeconfig.cache
+C:\Users\Ayşe\source\repos\Recursive_Extentions_Methods\obj\Debug\net5.0\ref\Recursive_Extentions_Methods.dll
