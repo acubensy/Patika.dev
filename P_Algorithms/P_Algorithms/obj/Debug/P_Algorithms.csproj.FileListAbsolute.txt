@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\bin\Debug\P_Algorithms.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\bin\Debug\P_Algorithms.exe
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\bin\Debug\P_Algorithms.pdb
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\obj\Debug\P_Algorithms.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\obj\Debug\P_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\obj\Debug\P_Algorithms.exe
+C:\Users\aysey\OneDrive\Masaüstü\P_Algorithms\P_Algorithms\obj\Debug\P_Algorithms.pdb
