@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -25,18 +25,22 @@ namespace Classes
             // * Private
             // * Internal
             // * Protected
-            Console.WriteLine("*****Çalışan ******");
+
+            Console.WriteLine("*****Çalışan 1 ******");
             Calisan calisan1 = new Calisan("Ayşe", "Yalçınkaya", 1245678, "İK");
             calisan1.CalisanBilgileri();
 
-            Console.WriteLine("*****Çalışan ******");
+            Console.WriteLine("*****Çalışan 2 ******");
             Calisan calisan2 = new Calisan();
-            calisan1.Ad = "Hasan";
-            calisan1.Soyad = "Yılmaz";
-            calisan1.No = 123456;
-            calisan1.Departman = "Fen İşleri";
-            calisan1.CalisanBilgileri();
+            calisan2.Ad = "Hasan";
+            calisan2.Soyad = "Yılmaz";
+            calisan2.No = 123456;
+            calisan2.Departman = "Fen İşleri";
+            calisan2.CalisanBilgileri();
 
+            Console.WriteLine("*****Çalışan 3 ******");
+            Calisan calisan3 = new Calisan("Ayşe" , "Yalçınkaya");
+            calisan3.CalisanBilgileri();
         }
 
         class Calisan
@@ -53,9 +57,14 @@ namespace Classes
                 this.No = no;
                 this.Departman = departman;
             }
-            public Calisan() { } //Constructor 2
+            public Calisan() { } //Constructor 2 , Overloaded
 
-            public Calisan(string ad, string soyad) { } // Constructor 3
+            public Calisan(string ad, string soyad) // Constructor 3 , Overloaded
+            { 
+                this.Ad= ad;
+                this.Soyad= soyad;
+            } 
+            
             public void CalisanBilgileri() //method
             {
                 Console.WriteLine("Çalışanın Adı: {0}", Ad);
