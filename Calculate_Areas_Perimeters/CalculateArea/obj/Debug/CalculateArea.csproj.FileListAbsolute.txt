@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\aysey\OneDrive\Masaüstü\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
