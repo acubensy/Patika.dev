@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_Split", "Algorithm_Split\Algorithm_Split.csproj", "{834F0A75-4FB5-4A05-A0EC-F05DAA8BE36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834F0A75-4FB5-4A05-A0EC-F05DAA8BE36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834F0A75-4FB5-4A05-A0EC-F05DAA8BE36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834F0A75-4FB5-4A05-A0EC-F05DAA8BE36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834F0A75-4FB5-4A05-A0EC-F05DAA8BE36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DD12B8-9ACE-4524-B744-EF545A0BB649}
+	EndGlobalSection
+EndGlobal
